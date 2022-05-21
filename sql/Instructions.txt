@@ -1,0 +1,3 @@
+Set Database Name as "basic_banking_system_database"
+
+and Emport database.sql in it
